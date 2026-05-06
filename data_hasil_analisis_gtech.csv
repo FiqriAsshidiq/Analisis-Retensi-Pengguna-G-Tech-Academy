@@ -1,0 +1,9 @@
+user_id,tanggal_akses,durasi_menit,fitur_utama,skor_kepuasan
+101,2024-05-01,45,Video,5.0
+102,2024-05-02,10,Kuis,4.0
+103,2024-05-03,120,Video,
+104,2024-05-04,5,Forum,2.0
+105,2024-05-05,60,Kuis,
+106,2024-05-06,30,Video,5.0
+107,2024-05-07,150,Video,4.0
+108,2024-05-08,20,Kuis,
